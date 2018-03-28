@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-test 33333
-=======
 testtest 123
 
 aaa
 bbb
->>>>>>> new
