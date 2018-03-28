@@ -3,7 +3,6 @@ asdfkne
 erii1231
 1231
 dfkne
-<<<<<<< HEAD
 kkk
 
 adskfk
@@ -14,7 +13,3 @@ adskfk
 
 1232i
 12312idn
-=======
-eknd
-eiur213
->>>>>>> c727d5dd78eec926eb393a7703b469831e3dc893
